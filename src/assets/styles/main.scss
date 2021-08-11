@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100vh;
+  min-height: 664px;
+  min-width: 1200px;
+}
+.test{
+  display: flex;
+  height: 100px;
+  background-color: $--color-primary;
+}

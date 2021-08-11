@@ -1,7 +1,7 @@
 {
-  "name": "virtual-table",
+  "name": "rollup-demo",
   "version": "0.0.1",
-  "description": "基于canvas的高性能虚拟表格",
+  "description": "rollup-demo",
   "main": "src/main.js",
   "scripts": {
     "dev": "npm run lint && rollup -w -c ./config/rollup.config.dev.js",
@@ -9,10 +9,6 @@
     "build": "npm run lint && rollup -c ./config/rollup.config.prod.js",
     "lint": "eslint --fix --ext .ts,.js src"
   },
-  "keywords": [
-    "canvas",
-    "table"
-  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {

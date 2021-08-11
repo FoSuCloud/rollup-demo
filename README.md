@@ -1,5 +1,4 @@
-## wf-virtual-table
-* 基于canvas的高性能虚拟表格
+## 1. rollup-demo
 
 ## 2.安装项目依赖
 ```
